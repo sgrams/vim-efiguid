@@ -1,0 +1,4 @@
+this is a fork of https://github.com/kburdett/vim-nuuid
+
+# usage
+use <leader>g to generate a new, random EFI_GUID in array format
